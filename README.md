@@ -65,11 +65,13 @@ classic-chess-js/
 | Medium | 1-ply greedy search | Fast | Intermediate |
 | Hard   | 3-ply minimax | 1-2 sec delay | Advanced |
 
+```javascript
 // Sample AI evaluation (from script.js)
 function evaluatePosition() {
   // Values pieces: pawn=1, knight/bishop=3, rook=5, queen=9
   // Considers: king safety, piece activity, pawn structure
 }
+```
 
 ## 🛠️ Development Highlights
 
