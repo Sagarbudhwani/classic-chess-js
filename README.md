@@ -6,7 +6,17 @@
 
 A complete chess game built with vanilla JavaScript. Play against a friend or challenge the AI with three difficulty levels - perfect for both casual players and chess enthusiasts!
 
-![Gameplay Screenshot](assets/screenshot.png)
+## 🌐 Live Demo
+
+<div align="center">
+  <a href="https://classic-chess.netlify.app/">
+    <img src="assets/screenshot.png" alt="Chess Game Preview" width="600">
+  </a>
+  <br>
+  <strong>Play now:</strong> <a href="https://classic-chess.netlify.app/">https://classic-chess.netlify.app/</a>
+  <br>
+   [![Netlify Status](https://api.netlify.com/api/v1/badges/c9559a94-db27-4e75-acd1-8d8dce94b49c/deploy-status)](https://app.netlify.com/projects/classic-chess/deploys)
+</div>
 
 ## 📂 File Structure
 
