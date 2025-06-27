@@ -8,8 +8,15 @@ A complete chess game built with vanilla JavaScript. Play against a friend or ch
 
 ## 🌐 Live Demo
 
-[![Live Game](https://img.shields.io/website?url=https://classic-chess.netlify.app&label=Chess%20Game&color=blue)](https://classic-chess.netlify.app)
-[![Netlify](https://img.shields.io/netlify/c9559a94-db27-4e75-acd1-8d8dce94b49c?label=Production)](https://app.netlify.com/sites/classic-chess)
+<div align="center">
+  <a href="https://classic-chess.netlify.app/">
+    <img src="assets/screenshot.png" alt="Chess Game Preview" width="600">
+  </a>
+  <br>
+  <a href="https://classic-chess.netlify.app/">
+    <img src="https://img.shields.io/badge/Play_Online-Live_Demo-brightgreen?style=for-the-badge&logo=chess" alt="Play Now">
+  </a>
+</div>
 
 ## 📂 File Structure
 
