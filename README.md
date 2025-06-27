@@ -15,7 +15,7 @@ A complete chess game built with vanilla JavaScript. Play against a friend or ch
   <br>
   <strong>Play now:</strong> <a href="https://classic-chess.netlify.app/">https://classic-chess.netlify.app/</a>
   <br>
-   [![Netlify Status](https://api.netlify.com/api/v1/badges/c9559a94-db27-4e75-acd1-8d8dce94b49c/deploy-status)](https://app.netlify.com/projects/classic-chess/deploys)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/c9559a94-db27-4e75-acd1-8d8dce94b49c/deploy-status)](https://app.netlify.com/sites/classic-chess/overview)
 </div>
 
 ## 📂 File Structure
