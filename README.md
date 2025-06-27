@@ -10,6 +10,7 @@ A complete chess game built with vanilla JavaScript. Play against a friend or ch
 
 ## 📂 File Structure
 
+```
 classic-chess-js/
 ├── pieces/               # All chess piece images
 │   ├── white_pawn.png
@@ -22,7 +23,7 @@ classic-chess-js/
 ├── script.js            # Game logic (2000+ lines)
 ├── README.md            # This document
 └── LICENSE              # MIT License
-
+```
 
 ## 🎮 Features
 
