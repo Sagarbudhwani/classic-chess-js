@@ -9,12 +9,10 @@ A complete chess game built with vanilla JavaScript. Play against a friend or ch
 ## 🌐 Live Demo
 
 <div align="center">
-  <a href="https://classic-chess.netlify.app/">
-    <img src="assets/screenshot.png" alt="Chess Game Preview" width="600">
-  </a>
-  <br>
-  <strong>Play now:</strong> <a href="https://classic-chess.netlify.app/">https://classic-chess.netlify.app/</a>
-  <br>
+  <img src="assets/screenshot.png" alt="Chess Game Preview" width="400">
+  
+  [![Play Now](https://img.shields.io/badge/Play_Online-Live_Demo-brightgreen?style=for-the-badge)](https://classic-chess.netlify.app/)
+  
   [![Netlify Status](https://api.netlify.com/api/v1/badges/c9559a94-db27-4e75-acd1-8d8dce94b49c/deploy-status)](https://app.netlify.com/sites/classic-chess/overview)
 </div>
 
