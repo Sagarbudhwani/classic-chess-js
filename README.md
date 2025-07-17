@@ -109,4 +109,4 @@ function evaluatePosition() {
 
 ## 📜 License
 
-MIT © [Sagar Budhwani] - Free to use, modify, and share! See [LICENSE](LICENSE).
+MIT © Sagar Budhwani - Free to use, modify, and share! See [LICENSE](LICENSE).
